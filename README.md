@@ -1,5 +1,10 @@
 ### Hello, i'm a high school student studying computing, i really like creating games and programming in general :)
 
+
+<div>
+  <h1>What i know:</h1>
+  <p font-size:20px;>HTML, CSS, JAVASCRIPT, PHP and SQL</p>
+</div>
 <!--
 **SateVV/satevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
