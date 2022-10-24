@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, i'm a high school student studying computing, i really like creating games and programming in general :)
 
 <!--
 **SateVV/satevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
